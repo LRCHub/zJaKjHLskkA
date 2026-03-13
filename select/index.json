@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "アノニマス",
+  "base_artist": "SAYURI",
+  "createdAt": "2026-03-13T09:17:53.399273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アノニマス",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/01_アノニマス_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/02_アノニマス_さユり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/03_アノニマス_さユり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アノニマス",
+      "artist": "さゆり",
+      "has_synced": true,
+      "path": "select/04_アノニマス_さゆり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アノニマス",
+      "artist": "Sayuri",
+      "has_synced": true,
+      "path": "select/05_アノニマス_Sayuri.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anonymous [アノニマス]",
+      "artist": "Sayuri [さユり]",
+      "has_synced": true,
+      "path": "select/06_Anonymous_[アノニマス]_Sayuri_[さユり].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/07_アノニマス_さユり.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/08_アノニマス_さユり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アノニマス-「め」弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/09_アノニマス-「め」弾き語りver.-_さユり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アノニマス -弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/10_アノニマス_-弾き語りver.-_さユり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アノニマス-弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": true,
+      "path": "select/11_アノニマス-弾き語りver.-_さユり.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アノニマス - Anonymous",
+      "artist": "SAYURI",
+      "has_synced": true,
+      "path": "select/12_アノニマス_-_Anonymous_SAYURI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_アノニマス_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_アノニマス_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_アノニマス_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "アノニマス",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_アノニマス_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "アノニマス -弾き語りver.-",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_05_アノニマス_-弾き語りver.-_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "アノニマス-酸欠remix-",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_06_アノニマス-酸欠remix-_さユり.txt"
+    }
+  ]
+}
